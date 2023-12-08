@@ -21,7 +21,7 @@ Now navigate to main.js to start coding.
 
 Then test that entered text is being added to the preview after each keystroke.
 
-4. Under the keyup method, attach a change event handler to the <select> field with an id of "font".
+4. Under the keyup method, attach a change event handler to the `<select>` field with an id of "font".
 
 The change event handler will fire anytime the selected value of the '#font' menu changes.
 
